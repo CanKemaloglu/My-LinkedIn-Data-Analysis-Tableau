@@ -10,7 +10,7 @@
 ### Bağlantılarımın çalıştıkları şirketlere göre dağılımı
 ### Bağlantılarımın aylık artış grafiği
 ### Bağlantılarım arasında hangi isimden kaç adet var ?
-### Bağlantılarım arasında hangi poziyondan kaç adet var ? 
+### Bağlantılarım arasında hangi pozisyondan kaç adet var ? 
 
 
 ### GitHub Page: https://cankemaloglu.github.io/My-LinkedIn-Data-Analysis-Tableau/
